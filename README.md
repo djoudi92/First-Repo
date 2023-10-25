@@ -1,10 +1,1 @@
-# Name : 
-Djoudi Abdessalem 
-
-### --------------------------------------------------------------
-
-# Age :
-24 years old
-
-# country : 
-Algeria
+Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard .For Tesla and GME 
